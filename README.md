@@ -10,7 +10,7 @@
 
 * Backend + cloud systems (Flask, Docker, Kubernetes, OpenShift).
 * Retrieval-Augmented Generation (RAG), LangChain, and AI agents.
-* * Deep learning with PyTorch (sequence modeling, clustering, interpretability).
+* Deep learning with PyTorch (sequence modeling, clustering, interpretability).
 * Cybersecurity and Rust programming to secure self-reflective databases and blockchain prototypes.
 
 👯 **I’m looking to collaborate on**
