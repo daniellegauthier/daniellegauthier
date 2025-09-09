@@ -3,9 +3,9 @@
 **Building interpretable AI systems that translate emotion into measurable impact.**
 * Improving sentiment classification accuracy by using Semantic Color Math benchmarks with significant RGB regression anchoring
 
-* Developed 2+ research dashboards for Census/World Bank analysis of accessibility and wellbeing ([1. Anthropocene Census Chloropleths](https://github.com/daniellegauthier/Anthropocene-by-US-County) and [2. World Bank Wellbeing](https://github.com/daniellegauthier/World-Bank-1960-2023))
+* Developed 2+ research dashboards for Census/World Bank analysis of accessibility and wellbeing ([1. Anthropocene Census Chloropleths 10/1/24](https://github.com/daniellegauthier/Anthropocene-by-US-County) and [2. World Bank Wellbeing 8/18/24](https://github.com/daniellegauthier/World-Bank-1960-2023))
 
-* Deployed 3+ secure web apps (JS, Python) for wellbeing exploration and analysis ([1. GNH and Color Sentiment Analysis](https://github.com/daniellegauthier/RGB-Root-Matriz-Color-Plotter), [2. DEI and GNH Consulting App](https://github.com/daniellegauthier/La-Matriz-DEI-BI), and [3. Ambient Mood Analyzer](https://github.com/daniellegauthier/chromesthesia))
+* Deployed 3+ secure web apps (JS, Python) for wellbeing exploration and analysis ([1. GNH and Color Sentiment Analysis 9/7/25](https://github.com/daniellegauthier/RGB-Root-Matriz-Color-Plotter), [2. DEI and GNH Consulting App WIP](https://github.com/daniellegauthier/La-Matriz-DEI-BI), and [3. Ambient Mood Analyzer 9/6/25](https://github.com/daniellegauthier/chromesthesia))
 
 
 🔭 **I’m currently working on**
