@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [La Matriz DEI and BI Data Dashboard](https://github.com/users/daniellegauthier/projects/1)
 
-- 🌱 I’m currently learning **Backend + cloud systems (Flask, Docker, Kubernetes, OpenShift). Retrieval-Augmented Generation (RAG), LangChain, and AI agents. Deep learning with PyTorch (sequence modeling, clustering, interpretability). Deep learning with PyTorch (sequence modeling, clustering, interpretability). * Cybersecurity and Rust programming to secure self-reflective databases and blockchain prototypes.**
+- 🌱 I’m currently learning **Backend + cloud systems (Flask, Docker, Kubernetes, OpenShift). Retrieval-Augmented Generation (RAG), LangChain, and AI agents. Deep learning with PyTorch (sequence modeling, clustering, interpretability). Deep learning with PyTorch (sequence modeling, clustering, interpretability). Cybersecurity and Rust programming to secure self-reflective databases and blockchain prototypes.**
 
 - 👯 I’m looking to collaborate on [La Matriz Semantic Color Math API](https://github.com/users/daniellegauthier/projects/3)
 
