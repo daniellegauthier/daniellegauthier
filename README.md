@@ -1,7 +1,7 @@
 # Hi, I’m Danielle Gauthier 🕯️
 
 ### Building interpretable AI systems that translate emotion into measurable impact.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daniellegauthier&label=Profile%20views&color=0e75b6&style=flat" alt="daniellegauthier" /> </p><br><br><p align="left"> <a href="https://twitter.com/dgauthierpolicy" target="blank"><img src="https://img.shields.io/twitter/follow/dgauthierpolicy?logo=twitter&style=for-the-badge" alt="dgauthierpolicy" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=daniellegauthier&label=Profile%20views&color=0e75b6&style=flat" alt="daniellegauthier" /> </p>
 
 - 🔭 I’m currently working on [La Matriz DEI and BI Data Dashboard](https://github.com/users/daniellegauthier/projects/1)
 
