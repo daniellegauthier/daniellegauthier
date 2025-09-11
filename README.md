@@ -13,13 +13,11 @@
 
 - 👨‍💻 All of my projects are available at [https://mentalhealthpoetry.help/](https://mentalhealthpoetry.help/)
 
-- 💬 Ask me about **Semantic Color Math & La Matriz (bridging poetry, math, and code). Emotional-AI alignment & interpretability frameworks. Decolonial design, ritual economy, and blockchain for social good.**
+- 💬 Ask me about **Semantic Color Math & La Matriz (bridging poetry, math, and code). Emotional-AI alignment & interpretability frameworks. Decolonial design, wellbeing economy, and blockchain for social good.**
 
 - 📫 How to reach me **danielle.gauthier@lamatriz.ai**
 
-- ⚡ Fun fact **I'm a certified Yoga Teacher and MFA**
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniellegauthier&show_icons=true&locale=en&layout=compact" alt="daniellegauthier" /></p><br><br><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daniellegauthier&show_icons=true&locale=en" alt="daniellegauthier" /></p><br><br><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daniellegauthier&" alt="daniellegauthier" /></p>
-
+- ⚡ Fun fact **I'm a certified Yoga Teacher and Integrated Media MFA**
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/lamatriz-geometry) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lamatriz.consulting) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniellegauthier-art) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/fuzzygeometric) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dgauthierpolicy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:danielle.gauthier@lamatriz.ai) 
