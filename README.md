@@ -18,7 +18,7 @@
 - 📫 How to reach me **danielle.gauthier@lamatriz.ai**
 
 - ⚡ Fun fact **I'm a certified Yoga Teacher and MFA**
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lamatriz.consulting" height="30" width="40" /></a><br></p><br><br><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniellegauthier&show_icons=true&locale=en&layout=compact" alt="daniellegauthier" /></p><br><br><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daniellegauthier&show_icons=true&locale=en" alt="daniellegauthier" /></p><br><br><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daniellegauthier&" alt="daniellegauthier" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniellegauthier&show_icons=true&locale=en&layout=compact" alt="daniellegauthier" /></p><br><br><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daniellegauthier&show_icons=true&locale=en" alt="daniellegauthier" /></p><br><br><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daniellegauthier&" alt="daniellegauthier" /></p>
 
 
 ## 🌐 Socials:
