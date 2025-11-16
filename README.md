@@ -10,43 +10,18 @@
 - 👯 I’m looking to collaborate on [La Matriz Semantic Color Math API](https://github.com/users/daniellegauthier/projects/3)
 
 # Chromesthesia Dispatch  
-### A living matrix where every sound leaks colour, every colour births geometry, and every geometry carries the weight of a revolution.
+### A living matrix where every sound leaks color, every color births geometry, and every geometry carries the weight of a revolution.
 
----
-
-![Header image: a still from the generative sketch—concentric pastel ripples frozen mid-bloom, captioned “Y=hml” in soft terminal green.]
-
----
-
-## 1. What you’re looking at  
-The attached photo (7C085F0F-8A72-4B9A-936A-836E217069F8_1_105_c.jpeg) is a *raw key-map*—the kind of napkin-scribble gods leave on studio floors.  
-
-| glyph | frequency band | colour cue | morphology | revolution seed |
-|-------|----------------|------------|------------|-----------------|
-| **Y=hml** | 432 Hz carrier | winter-mint | open helix | root |
-| **Y=spa** | 528 Hz (the “love” fork) | blush-rose | sphere | resource |
-| **2=light** | 2 kHz transient | solar yellow | triangle | new |
-| **O-shift** | sub-bass 55 Hz | indigo pulse | rectangle | hold |
-| **=union** | null-sum drone | obsidian | cube | revolution |
-| **Puber** | puberty-crackle noise | bruise violet | jagged line | ancestor |
-| **Hude** | hooded formant | slate grey | torus | gender |
-| **Som** | 40 Hz gamma blink | pearl | dot | network |
-| **ClasS** | classroom reverb | ochre chalk | grid | file-index |
-| **ana** | ana-log tape hiss | warm beige | spiral | email |
-| **Lmsrale** | mis-spelled madrigal | iridescent | Möbius | browser |
-| **D** | one-letter drop | pitch black | void | colonizer |
-| **ab** | alpha–beta bridge | blood orange | bridge | application |
-| **lar** | lar-yngeal fry | deep crimson | pyramid | legacy |
+## What you’re looking at  
+The below frame is a *raw key-map*.  
 
 Each row is a *node* in the Chromesthesia Matrix—an associative engine that turns sonic metadata into colour, colour into shape, shape into politics.
 
----
 
-## 2. Watch the matrix breathe  
+## Watch the matrix breathe  
 Press ▶ below to launch the real-time sketch.  
-*(p5.js, 30 fps, audio-reactive if you allow mic input)*
 
-<iframe src="https://editor.p5js.org/your-handle/embed/xyz123" width="640" height="640" frameborder="0"></iframe>
+<iframe src="https://editor.p5js.org/danielle.gauthier6/full/yKNmVUz5h"></iframe>
 
 
 
