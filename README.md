@@ -3,7 +3,7 @@
 ### Building interpretable AI systems that translate emotion into measurable impact.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniellegauthier&label=Profile%20views&color=0e75b6&style=flat" alt="daniellegauthier" /> </p>
 
-- 🔭 I’m currently working on [La Matriz Semantic Color Math API](https://github.com/users/daniellegauthier/projects/3)
+- 🔭 I’m currently working on [Pluriverse Data Journal](https://github.com/daniellegauthier/Create-Pluriverse-Data-Journal)
 
 - 🌱 I’m currently learning **Retrieval-Augmented Generation (RAG), LangChain, and AI agents. Deep learning with PyTorch (sequence modeling, clustering, interpretability). Cybersecurity and Rust programming to secure self-reflective databases and blockchain prototypes.**
 
